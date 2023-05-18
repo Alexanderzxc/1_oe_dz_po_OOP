@@ -1,0 +1,17 @@
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\bin\Debug\net6.0-windows\pervoe_zadanie.exe
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\bin\Debug\net6.0-windows\pervoe_zadanie.deps.json
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\bin\Debug\net6.0-windows\pervoe_zadanie.runtimeconfig.json
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\bin\Debug\net6.0-windows\pervoe_zadanie.dll
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\bin\Debug\net6.0-windows\pervoe_zadanie.pdb
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.Form1.resources
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.AssemblyInfo.cs
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.dll
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\refint\pervoe_zadanie.dll
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.pdb
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\pervoe_zadanie.genruntimeconfig.cache
+C:\Users\sasha\source\repos\pervoe_zadanie\pervoe_zadanie\obj\Debug\net6.0-windows\ref\pervoe_zadanie.dll
